@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.IO;
 
-namespace day7part1
+namespace day8part2
 {
     class Program
     {
